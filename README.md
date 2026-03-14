@@ -1,5 +1,5 @@
 # 🏠 Hostel Room Allocation System
-### MERN Stack Mini Project — MSc IT Academic Submission
+### MERN Stack Project 
 
 ---
 
